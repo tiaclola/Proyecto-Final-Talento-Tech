@@ -1,0 +1,9 @@
+[
+    { "id": 1, "nombre": "Taza", "precio": 5000.0, "descripcion": "Taza de ceramica con calco vitrificable", "imagen": "./assets/taza.jpg" },
+    { "id": 2, "nombre": "Bandeja", "precio": 5000.0, "descripcion": "Bandeja de madera pintada a mano con lamina",  "imagen": "./assets/bandeja de madera.jpg" },
+    { "id": 3, "nombre": "Bowl", "precio": 5000.0, "descripcion": "Bowl de ceramica con calco vitrificable",  "imagen": "./assets/bowl.jpg" },
+    { "id": 4, "nombre": "Mate", "precio": 5000.0, "descripcion": "Mate de ceramica con calco vitrificable", "imagen": "./assets/mate.jpg" },
+    { "id": 5, "nombre": "Tea for One", "precio": 5000.0, "descripcion": "Tea for one con calco vitrificable", "imagen": "./assets/teaforone.jpg" }
+]
+
+
